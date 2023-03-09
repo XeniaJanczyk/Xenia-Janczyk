@@ -7,3 +7,5 @@ how to work in a Scrum. I know bug tracking tools such as Jira or Testlink
 and also know the basics of MySQL, Postman and DevTools. What's more, thanks 
 to the automation testing course I know the basics of programming language 
 which is Java, framework Selenium and how to work with Github. 
+
+I created this portfolio to show what I have mastered. So welcome and enjoy it 😄
